@@ -1,3 +1,6 @@
+body{
+    background-color: lightblue;
+}
 .logo {
     position: relative;
     /* background: url(../images/logo.png); */
